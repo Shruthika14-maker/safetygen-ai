@@ -1,0 +1,10 @@
+{
+  "name": "SafetyGen AI",
+  "description": "AI-powered multimodal, multilingual and accessibility-first emergency safety assistant connected to a disaster-management monitoring and response dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
